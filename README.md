@@ -95,6 +95,9 @@ how to create access key id and access key:-
 -->after i check the s3 bucket in aws account with data add or not.
 -->Next i make change directory.
 -->after i install  boto3.
+ From boto3
+--Upload files to S3
+--Manage AWS resources programmatically
 --> next uploaded weather.json files in my s3 bucket successfully.
 -->after deactivate to venv(Virtual environment)
 -->next i add 2 cities temparature and humidity
